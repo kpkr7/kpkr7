@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+<p align="center">
+<br><br>
+<samp>
+I'm Pavan. Currently working as a DevOps Engineer at Mercedes-Benz Reasearch and Development India. 
+  <br><br>Contact me on <a href="https://www.linkedin.com/in/kpkr7/">LinkedIn</a> , <a href="https://twitter.com/kpkr7">Twitter</a> or <a href="mailto&#58;pavankalyan.in@gmail.com">Send an Email</a>
+  </samp>
+ </p>
 <!--
 **kpkr7/kpkr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
